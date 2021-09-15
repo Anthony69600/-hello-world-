@@ -1,3 +1,3 @@
 "Bonjour"
-"Changement"
+
 "En revoir"
